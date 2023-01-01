@@ -1,0 +1,23 @@
+body
+{
+	text-align: center;
+	background-image: url("images (1)mars.jpg");
+}
+
+h1 {
+	font-weight: bolder;
+	color: white;
+}
+
+span
+{
+	font-size: 12px;
+	color: rgb(0,240, 0);
+	font-weight: bold;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+	margin-bottom: 15px;
+}
